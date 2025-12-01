@@ -181,6 +181,9 @@ Dưới đây là **danh sách đầy đủ và có cấu trúc** cho đề tài
 - Luôn phản hồi bằng tiếng Việt.
 - Luôn tuần theo danh sách chức năng đã liệt kê ở trên.
 - Sử dụng tiếng Việt có dấu trong toàn bộ giao diện và thông báo lỗi.
+- Không dùng NodeJS.
+- Không cần unit test.
+- Dự án sử dụng hướng tiếp cận Code-First.
 - Sử dụng bootstrap5 cho giao diện admin.
 - Tất cả các file hướng dẫn .md được đặt ở thư mục `.docs` trong dự án.
 - Luôn kiểm tra lại tên model, tên bảng, tên cột, tên biến, tên route đã có trong dự án hay chưa sau khi hoàn thành chức năng.
